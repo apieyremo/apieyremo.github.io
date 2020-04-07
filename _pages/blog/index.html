@@ -1,0 +1,30 @@
+---
+title: Blog
+description: Nuestro Blog
+layout: default
+permalink: /blog/
+ref: blog
+---
+<div class="page">
+  <h1>Blog</h1>
+  <h4>Buscar por publicaciones recientes abajo.</h4>
+  <h4>O <a href="/categorias/" title="buscar por categoría">buscar por categoría <i class="fa fa-tag"></i></a>, <a href="/regiones/" title="buscar por región">buscar por región <i class="fa fa-map"></i></a>.</h4>
+  <div class="blog-previews">
+    {% for post in site.posts %}
+      <div class="blog-posts">
+        <a href="{{ post.url }}"><div class="posts-image" style="background-image:url({{ post.postHero }})"></div></a>
+        <header class="post-header">
+          <h2>{{ post.title }}</h2>
+          <div class="post-byline">
+            por {{ post.author }}
+            <span> | {% include date.html date=post.date %} {{ day }} {{ month }} {{ year }}</span>
+          </div>
+        </header>
+        {{ post.excerpt }}
+        <div class="action-button">
+          <a href="{{ post.url }}">leer más...</a>
+        </div>
+      </div>
+    {% endfor %}
+  </div>
+</div>

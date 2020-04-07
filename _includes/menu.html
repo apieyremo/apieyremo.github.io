@@ -1,0 +1,22 @@
+<nav>
+  <input type="checkbox" id="mobile-menu" class="mobile-menu-check">
+  <label for="mobile-menu" class="show-mobile-menu"><i class="fa fa-bars"></i></label>
+  <ul class="header-nav">
+    <li><a href="/">Inicio</a></li>
+    <li><a href="/#contacto" title="Contacto">Contacto</a></li>
+    <li><a href="/regiones" title="Descubre por Region">Regiones</a></li>
+    <li><a href="/categorias" title="Descubre por Categorías">Categorías</a></li>
+    <li class="dropdown">
+        <a class="drop-trigger" href="/blog/">Blog</a>
+      <ul class="drop-menu">
+        <li>
+          Publicaciones Recientes
+        </li>
+        {% assign posts=site.posts %}
+        {% for post in posts limit:5 %}
+          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+  </ul>
+</nav>

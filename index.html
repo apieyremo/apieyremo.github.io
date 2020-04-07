@@ -1,0 +1,121 @@
+---
+layout: default
+---
+<div class="home">
+  <div class="col-wrapper">
+  {% for post in site.posts %}
+    {% if post.main %}
+      <div class="one-col">
+        <a href="{{ post.url }}" title="{{ post.title }}">
+          <div class ="home-image">
+            <img src="{{ post.postHero }}" alt="{{ post.title }}"/>
+            <div class="image-title">
+              <h3>{{ post.title }}</h3>
+            </div>
+          </div>
+        </a>
+      </div>
+    {% endif %}
+  {% endfor %}
+  {% assign posts=site.posts | sort:"date" | reverse %}
+    {% for post in posts limit: 3 %}
+      {% if post.main %}
+      {% else %}
+        <div class="two-col">
+          <a href="{{ post.url }}" title="{{ post.title }}">
+            <div class ="home-image">
+              <img src="{{ post.postHero }}" alt="{{ post.title }}"/>
+              <div class="image-title">
+                <h3>{{ post.title }}</h3>
+              </div>
+            </div>
+          </a>
+        </div>
+      {% endif %}
+    {% endfor %}
+  </div>
+  <h4><a href="/blog/" title="Blog"><i class="fa fa-angle-double-right"></i> más publicaciones recientes <i class="fa fa-angle-double-left"></i></a></h4>
+
+  <div class="mobile-about">
+    <a name="sobrenosotros" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+    {% include about.html %}
+  </div>
+
+  <div class="videohome">
+    {% include youtubePlayer.html id="pnh8-lcA10M" %}
+  </div>
+
+  <div class="col-wrapper">
+    <div class="three-col">
+      <a href="/categorias#senderismo" title="Descubre Senderismo">
+        <div class ="home-image">
+          <img src="/assets/images/senderismo.jpg" alt="Senderismo"/>
+          <div class="image-tag">
+            <h3>Senderismo</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="three-col">
+      <a href="/categorias#canoa" title="Descubre Canoa">
+        <div class ="home-image">
+          <img src="/assets/images/canoa.jpg" alt="Canoa"/>
+          <div class="image-tag">
+            <h3>Canoa</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="three-col">
+      <a href="/categorias#vanlife" title="Descubre Van Life">
+        <div class ="home-image">
+          <img src="/assets/images/vanlife.jpg" alt="Van Life"/>
+          <div class="image-tag">
+            <h3>Van Life</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <h4><a href="/categorias" title="Categorías"><i class="fa fa-angle-double-right"></i> descubre todas las categorías <i class="fa fa-angle-double-left"></i></a></h4>
+  <div class="col-wrapper">
+    <div class="three-col">
+      <a href="/regiones#quebec" title="Descubre Quebec">
+        <div class ="home-image">
+          <img src="/assets/images/quebec.jpg" alt="Quebec"/>
+          <div class="image-tag">
+            <h3>Quebec</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="three-col">
+      <a href="/regiones#vermont" title="Descubre Vermont">
+        <div class ="home-image">
+          <img src="/assets/images/vermont.jpg" alt="Vermont"/>
+          <div class="image-tag">
+            <h3>Vermont</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+    <div class="three-col">
+      <a href="/regiones#newfoundland" title="Descubre Newfoundland ">
+        <div class ="home-image">
+          <img src="/assets/images/newfoundland.jpg" alt="NewFoundland"/>
+          <div class="image-tag">
+            <h3>Newfoundland</h3>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+  <h4><a href="/regiones" title="Regiones"><i class="fa fa-angle-double-right"></i> descubre todas las regiones <i class="fa fa-angle-double-left"></i></a></h4>
+
+  <a name="contacto" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
+  <h2>CONTACTO</h2>
+  <h3>¿Preguntas? ¿Colaboraciones?</h3>
+  {% include contactForm.html %}
+
+
+</div>
