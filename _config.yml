@@ -17,7 +17,7 @@ title: A Pie y Remo
 email: eduardo@soijen.com
 description: Aventuras a pie y remo
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://apieyremo.com" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://apieyremo.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:title/
 instagram_username: apieyremo
 facebook_username: apieyremo
