@@ -1,5 +1,5 @@
 ---
-main: false
+main: true
 published: true
 author: Eduardo Donoso
 layout: post
@@ -83,3 +83,5 @@ Con nuevas energías continuamos nuestro viaje de regreso, acompañados de una l
 - No nos introducimos en el agua en el lago Dauphinais, ya que había sanguijuelas. No sabemos si existen en otras partes del parque ya que estuvimos en el campamento número 2.
 - Los senderos para portage están bien señalizados y son relativamente planos.
 - La única fuente de agua en el campamento, fue el lago. Remamos hasta el centro de este para obtener agua para hervir.
+
+{% include youtubePlayer.html id="qxpwZi0W-0Y" %}

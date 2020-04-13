@@ -1,5 +1,5 @@
 ---
-main: true
+main: false
 published: true
 author: Eduardo Donoso
 layout: post

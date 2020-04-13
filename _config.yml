@@ -42,5 +42,3 @@ include: ["_pages"]
 #    - sitemap.xml
 #    - CNAME
 #  metadata:
-
-theme: jekyll-theme-minimal
