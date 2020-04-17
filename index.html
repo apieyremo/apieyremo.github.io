@@ -18,7 +18,7 @@ layout: default
     {% endif %}
   {% endfor %}
   {% assign posts=site.posts | sort:"date" | reverse %}
-    {% for post in posts limit: 2 %}
+    {% for post in posts limit: 3 %}
       {% if post.main %}
       {% else %}
         <div class="two-col">
@@ -45,6 +45,11 @@ layout: default
     {% include youtubePlayer.html id="pnh8-lcA10M" %}
   </div>
 
+  <div class="home-map">
+    {% include descubreRegion.html %}
+  </div>
+
+  <h2>DESCUBRE POR CATEGORÍA</h2>
   <div class="col-wrapper">
     <div class="three-col">
       <a href="/categorias#senderismo" title="Descubre Senderismo">
@@ -77,8 +82,9 @@ layout: default
       </a>
     </div>
   </div>
-  <h4><a href="/categorias" title="Categorías"><i class="fa fa-angle-double-right"></i> descubre todas las categorías <i class="fa fa-angle-double-left"></i></a></h4>
-  <div class="col-wrapper">
+  <h4><a href="/categorias" title="Categorías"><i class="fa fa-angle-double-right"></i> todas las categorías <i class="fa fa-angle-double-left"></i></a></h4>
+
+<!--  <div class="col-wrapper">
     <div class="three-col">
       <a href="/regiones#quebec" title="Descubre Quebec">
         <div class ="home-image">
@@ -111,6 +117,7 @@ layout: default
     </div>
   </div>
   <h4><a href="/regiones" title="Regiones"><i class="fa fa-angle-double-right"></i> descubre todas las regiones <i class="fa fa-angle-double-left"></i></a></h4>
+-->
 
   <a name="contacto" class="anchor"><i class="fa fa-anchor" aria-hidden="true"></i></a>
   <h2>CONTACTO</h2>
