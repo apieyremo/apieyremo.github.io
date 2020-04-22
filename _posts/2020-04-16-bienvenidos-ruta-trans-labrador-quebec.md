@@ -114,3 +114,5 @@ Felicitaciones has sobrevivido a la Ruta Trans Quebec - Labrador.  Sí todavía 
 - Parte 2 - Bienvenido a Labrador Ruta 500 ( Ruta Fermont a Happy Valley - Goose Bay)
 - Parte 3 - ¡Hola! mar de Labrador (Ruta Happy Valley - Goose Bay a Saint Lewis)
 - Parte 4 - El final del viaje (Ruta Saint Lewis a Blanc-Sablon)
+
+{% include youtubePlayer.html id="fgQh0d9oaIk" %}
