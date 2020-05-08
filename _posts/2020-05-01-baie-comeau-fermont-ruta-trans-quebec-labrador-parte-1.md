@@ -106,7 +106,7 @@ Si quieres visitar y saber más sobre estas montañas te recomendamos revisar el
   <figcaption class="img-caption">Ayudando a un auto con rueda pinchada</figcaption>
 </figure>
 <figure class="figure">
-  <img class="portrait-photo" src="/assets/images/baie-comeau-fermont-ruta-trans-quebec-labrador-parte-1/14.jpg" alt="Mapa de la Ruta 389 Ruta Trans Quebec - Labrador">
+  <img class="image" src="/assets/images/baie-comeau-fermont-ruta-trans-quebec-labrador-parte-1/14.jpg" alt="Mapa de la Ruta 389 Ruta Trans Quebec - Labrador">
   <figcaption class="img-caption">Mapa de la Ruta 389 Ruta Trans Quebec - Labrador</figcaption>
 </figure>
 
@@ -130,3 +130,5 @@ Recuerda manejar con precaución y preparar bien tu auto, en nuestro paso nos en
 - Recomendamos trajes anti insectos (bug jacket) que los puedes obtener en Walmart o cualquier tienda outdoor.
 - Revisa las condiciones de la ruta en <a href="https://www.quebec511.info/en/Diffusion/EtatReseau/Route.aspx?id=389" title="Quebec511">esta página</a>.
 - Si tienes mucha suerte, puedes revisar <a href="https://www.gi.alaska.edu/monitors/aurora-forecast" title="Aurora Forecast">esta página</a> para ver si tendrás posibilidad de ver la aurora boreal durante tu paso por la ruta. No vendría mal acampar en los Montes Groulx para esperar la aurora boreal en la madrugada.
+
+{% include youtubePlayer.html id="oPAtKpN6iEw" %}
