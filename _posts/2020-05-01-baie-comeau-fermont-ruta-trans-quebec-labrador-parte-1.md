@@ -1,5 +1,5 @@
 ---
-main: true
+main: false
 published: true
 author: Eduardo Donoso
 layout: post
@@ -8,6 +8,7 @@ description: Viajando por La Ruta 389, la primera parte de nuestra aventura por 
 postHero: /assets/images/baie-comeau-fermont-ruta-trans-quebec-labrador-parte-1/1.jpg
 tags:
   - camping
+  - cultura
   - vanlife
 regions:
   - canada
