@@ -14,14 +14,14 @@ regions:
   - canada
   - quebec
 ---
-Ajustamos nuestros relojes en 1 hora más y comenzamos nuestro viaje por Labrador, o también llamada "La Tierra Gigante". Aprendimos sobre la leyenda de las auroras boreales, sus pueblos originarios, su relación con Newfoundland y por supuesto manejamos por paisajes increíbles a lo largo del río Churchill. Todo esto y más en nuestra primera experiencia en la Provincia de Newfoundland y Labrador.
+Ajustamos nuestros relojes en 1 hora más y comenzamos nuestro viaje por Labrador, o también llamada "La Tierra Gigante". Aprendimos sobre la leyenda de las auroras boreales, sus pueblos originarios, su relación con Newfoundland y por supuesto manejamos por paisajes increíbles a lo largo del río Churchill. Todo esto y más en nuestra primera experiencia en la provincia de Newfoundland y Labrador.
 
 Antes de comenzar a describir este recorrido es importante conocer un poco esta provincia.
 
-La provincia de Labrador y NewFoundland (Terra Nova) se compone de dos regiones fácilmente de encontrar en un mapa. La primera se encuentra en el territorio continental de América del Norte y va desde el Polo Norte hasta el Estrecho de Belle Isle, limita al este con el mar de Labrador y Groenlandia. La segunda es fácil de reconocer ya que Newfoundland es una isla grande al sureste de Canadá.  Ambas regiones forman solo una provincia la cual fue la última en unirse a Canadá en el año 1949 cuando dejan de ser Dominios del Reino Unido para ser la provincia número 10 de Canadá.
+La provincia de NewFoundland (Terra Nova) y Labrador se compone de dos regiones fácilmente de encontrar en un mapa. La primera se encuentra en el territorio continental de América del Norte y va desde el Polo Norte hasta el estrecho de Belle Isle, limita al este con el mar de Labrador y Groenlandia. La segunda es fácil de reconocer ya que Newfoundland es una isla grande al sureste de Canadá.  Ambas regiones forman solo una provincia la cual fue la última en unirse a Canadá en el año 1949, cuando dejan de ser Dominios del Reino Unido para ser la provincia número 10 de Canadá.
 
 Labrador es hogar de los pueblos Innu, Naskapi e Inuit.
-- El Pueblo Innu, se ubicaba en la costa del Río Saint Lawrence (San Lorenzo) y en la costa este de Labrador. Fueron mayoritariamente cazadores, donde la fabricación de trampas y largas jornadas en raquetas de nieve eran necesarias para obtener comida de caribú, alces y ciervos.
+- El Pueblo Innu, se ubicaba en la costa del río Saint Lawrence (San Lorenzo) y en la costa este de Labrador. Fueron mayoritariamente cazadores, donde la fabricación de trampas y largas jornadas en raquetas de nieve eran necesarias para obtener comida de caribú, alces y ciervos.
 - El Pueblo Naskapi se internaron en las regiones boreales del interior de Labrador donde se dedicaban a la caza y pesca.
 - El Pueblo Inuit son unos de los pueblos más conocidos por su modo de vida y arte. Se ubican particularmente sobre el círculo ártico. Y desarrollaron una habilidad increíble para construir y navegar en kayaks o kajait.
 
@@ -42,11 +42,12 @@ Al día de hoy todas estas comunidades siguen sus tradiciones y se dedican mayor
 La ruta más importante es la Ruta Trans Quebec - Labrador, que se divide en las rutas:
 - Ruta 500: Labrador City hacia Happy Valley - Goose Bay
 - Ruta 510: Happy Valley -  Goose Bay hacia L’Anse -au-Clair, conocida además como "Labrador Coastal Drive".
-- Existen rutas marítimas que unen Happy Valley - Goose Bay con diferentes localidades hacia el norte y por supuesto existen rutas aéreas que comunican esas mismas localidades con Happy Valley - Goose Bay.
+
+ Existen rutas marítimas que unen Happy Valley - Goose Bay con diferentes localidades hacia el norte y por supuesto existen rutas aéreas que comunican esas mismas localidades con esta última ciudad.
 
 De la misma manera dejamos estos enlaces para aquellos aventureros que en el futuro deseen explorar más a fondo esta región. Como <a href="https://www.youtube.com/watch?v=VKtHECyJBPA" title="Northern Scavenger">estos 4 expedicionarios</a> que cruzaron desde Quebec hasta la comunidad de Nain en la costa este de Labrador por medio de canoas. O <a href="https://www.youtube.com/watch?v=167TSveVGxk" title="Labrador Passage">estos aventureros</a> que decidieron recrear un viaje de exploración ocurrido en el año 1905, con los mismos equipos que ocuparon en ese año.
 
-Después de esta breve descripción de esta tierra volvemos a nuestra aventura…
+Después de esta breve descripción de esta tierra, volvemos a nuestra aventura…
 
 Comenzamos el recorrido en la región de Labrador por la Ruta 500. La cual nos conduce por la ciudad minera de Labrador. Luego nos sorprendimos con una de las más grandes estaciones hidroeléctricas subterráneas del mundo en el pueblo de Churchill Falls. Para posteriormente parar a descansar en el pueblo de Happy Valley - Goose Bay, distante unos 530 km de la ciudad de Labrador, donde la noche nos daría un espectáculo que nunca habíamos pensado ver.
 
@@ -64,7 +65,7 @@ Recomendamos parar en el centro de información turística y museo <a href="http
 
 Una de las curiosidades que nos llamó la atención, especialmente en la tienda de souvenirs, fue la piedra de Labradorita, sobretodo cuando la guía de información turística nos mostró esta piedra en dirección a la luz. Según la creencia popular, un guerrero Inuit al encontrar esta piedra en el suelo, observó una infinidad de colores que se movían en varias direcciones. El guerrero Inuit con su lanza trató de liberar esos colores y al romper la piedra estos colores se escaparon hacia el cielo y fueron liberados. Cada cierto tiempo puedes ver esos colores, solo tienes que esperar una noche muy fría y mirar hacia el norte, donde estarás viendo la Aurora Boreal. Que increíblemente se puede ver en estas latitudes.
 
-Dejamos la ciudad de Labrador y continuamos por la Ruta 500 hacia el este. Los paisajes espectaculares continuaron, especialmente cuando llegamos cerca del Río Churchill, uno de los más grandes que corre de oeste a este.
+Dejamos la ciudad de Labrador y continuamos por la Ruta 500 hacia el este. Los paisajes espectaculares continuaron, especialmente cuando llegamos cerca del río Churchill, uno de los más grandes que corre de oeste a este.
 
 Churchill Falls fue la siguiente parada. Es un pequeño pueblo dedicado a la mantención y operación de una de las centrales hidroeléctricas subterráneas más grandes del mundo. La construcción de este proyecto obligó a modificar una de las cascadas más grandes de Canadá. Al día de hoy se puede todavía observar esta cascada, con mucho menos agua, pero si tienes suerte alguna veces liberan más agua en esta cascada para evitar la sobre acumulación y puedes ser testigo de <a href="https://www.cbc.ca/news/canada/newfoundland-labrador/churchill-falls-bonanza-1.5265645" title="CBC">este inusual fenómeno</a>, controlado por el hombre, en tu paso.
 
@@ -73,10 +74,10 @@ Después de 9 horas de conducir en la Ruta 500 llegábamos por fin a Happy Valle
 Happy Valley - Goose Bay es una pequeña ciudad ubicada en una intersección importante de las rutas en Labrador.  Desde aquí salen muchos vuelos hacia pequeñas localidades en el área, incluso puedes llegar al Parque Nacional Torngat en el extremo norte de la región.
 
 Cuando recorres Happy Valley - Goose Bay vas a encontrar muchos antiguos aviones militares en distintos puntos, esta ciudad sirvió como base para mover todo el apoyo por vía aérea, hacia europa durante la Segunda Guerra Mundial.
-Incluso como dato anecdótico, la costa este de Labrador (un poco más al norte de esta ciudad) fue el único lugar registrado en América del Norte donde Alemania, en la Segunda Guerra Mundial realizó una operación militar al instalar una estación metereológica. Si quieres saber más puedes leer <a href="https://ireneu.blogspot.com/2014/11/kurt-la-olvidada-estacion-meteorologica.html#:~:text=Se%20trataba%20de%20Kurt%2C%20la%20estaci%C3%B3n%20meteorol%C3%B3gica%20nazi%20en%20Canad%C3%A1.&text=La%20Segunda%20Guerra%20Mundial%2C%20por,hizo%20en%20suelo%20de%20Norteam%C3%A9rica.&text=O%20al%20menos%20se%20cre%C3%ADa,de%20la%20pen%C3%ADnsula%20del%20Labrador." title="KURT, LA OLVIDADA ESTACIÓN METEOROLÓGICA NAZI">aquí</a>.
+Incluso como dato anecdótico, la costa este de Labrador, fue el único lugar registrado en América del Norte donde Alemania, en la Segunda Guerra Mundial realizó una operación militar al instalar una estación metereológica. Si quieres saber más puedes leer <a href="https://ireneu.blogspot.com/2014/11/kurt-la-olvidada-estacion-meteorologica.html#:~:text=Se%20trataba%20de%20Kurt%2C%20la%20estaci%C3%B3n%20meteorol%C3%B3gica%20nazi%20en%20Canad%C3%A1.&text=La%20Segunda%20Guerra%20Mundial%2C%20por,hizo%20en%20suelo%20de%20Norteam%C3%A9rica.&text=O%20al%20menos%20se%20cre%C3%ADa,de%20la%20pen%C3%ADnsula%20del%20Labrador." title="KURT, LA OLVIDADA ESTACIÓN METEOROLÓGICA NAZI">aquí</a>.
 De la misma forma recomendamos no olvidar visitar en tu recorrido el <a href="http://www.labradorheritagemuseum.ca/home/" title="Labrador Heritage Museum">Labrador Heritage Museum</a> y el <a href="https://www.therooms.ca/labrador-interpretation-centre" title="Labrador Interpretation Centre">Centro de Interpretación de Labrador</a>.
 
-Nos preparábamos ya para otro día de viaje, nos quedaba un largo camino, decidimos ir a despedirnos del río Churchill a su desembocadura en el Lago Melville. También antes de comenzar a viajar buscamos un lugar para jugar con nuestra perrita ya que no habíamos tenido la oportunidad de correr y es aquí en Happy Valley - Goose Bay donde encontramos el parque para perros más grande en el que hemos estado, era tan grande que decidimos hacer unos vueltas corriendo y por lo menos obtuvimos unos 3 km corriendo. Sin duda un buen momento para relajarnos antes de iniciar una nueva jornada. (Y por supuesto aprovechamos de secar nuestra carpa y saco de dormir, como de costumbre).
+Nos preparábamos ya para otro día de viaje, nos quedaba un largo camino, decidimos ir a despedirnos del río Churchill a su desembocadura en el lago Melville. También antes de comenzar a viajar buscamos un lugar para jugar con nuestra perrita ya que no habíamos tenido la oportunidad de correr y es aquí en Happy Valley - Goose Bay donde encontramos el parque para perros más grande en el que hemos estado, era tan grande que decidimos hacer unos vueltas corriendo y por lo menos obtuvimos unos 3 km corriendo. Sin duda un buen momento para relajarnos antes de iniciar una nueva jornada. (Y por supuesto aprovechamos de secar nuestra carpa y saco de dormir, como de costumbre).
 
 <figure class="figure">
   <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/3.jpg" alt="Secando la carpa Labrador City">
@@ -91,20 +92,20 @@ Nos preparábamos ya para otro día de viaje, nos quedaba un largo camino, decid
   <figcaption class="img-caption">Centro de informaciones, tienda de Souvenirs y museo Gateway Labrador</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/6.jpg" alt="Puente que cruce el Río Churchill.">
-  <figcaption class="img-caption">Cruce del Río Churchill. Se puede notar la poca cantidad de agua</figcaption>
+  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/6.jpg" alt="Puente que cruce el río Churchill.">
+  <figcaption class="img-caption">Cruce del río Churchill. Se puede notar la poca cantidad de agua</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/7.jpg" alt="Río Churchill">
-  <figcaption class="img-caption">Río Chuchill</figcaption>
+  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/7.jpg" alt="río Churchill">
+  <figcaption class="img-caption"río Churchill</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/8.jpg" alt="Señal - Bienvenidos a Happy Valley - Goose Bay">
   <figcaption class="img-caption">Bienvenidos a Happy Valley - Goose Bay, el corazón de Labrador</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/9.jpg" alt="Lago Melville">
-  <figcaption class="img-caption">Desembocadura del Río Churchill en Lago Melville</figcaption>
+  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/9.jpg" alt="lago Melville">
+  <figcaption class="img-caption">Desembocadura del río Churchill en lago Melville</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/10.jpg" alt="Parque para perros, Happy Valley - Goose Bay">
