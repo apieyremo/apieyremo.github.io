@@ -96,8 +96,8 @@ Nos preparábamos ya para otro día de viaje, nos quedaba un largo camino, decid
   <figcaption class="img-caption">Cruce del río Churchill. Se puede notar la poca cantidad de agua</figcaption>
 </figure>
 <figure class="figure">
-  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/7.jpg" alt="río Churchill">
-  <figcaption class="img-caption"río Churchill</figcaption>
+  <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/7.jpg" alt="Río Churchill">
+  <figcaption class="img-caption">Río Churchill</figcaption>
 </figure>
 <figure class="figure">
   <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/8.jpg" alt="Señal - Bienvenidos a Happy Valley - Goose Bay">
@@ -115,3 +115,5 @@ Nos preparábamos ya para otro día de viaje, nos quedaba un largo camino, decid
   <img class="image" src="/assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/11.jpg" alt="Aurora Boreal Happy Valley Goose Bay">
   <figcaption class="img-caption">La noche estaba fría y estábamos mirando hacia el norte</figcaption>
 </figure>
+
+{% include youtubePlayer.html id="CgCwBmjQ0Tg" %}
