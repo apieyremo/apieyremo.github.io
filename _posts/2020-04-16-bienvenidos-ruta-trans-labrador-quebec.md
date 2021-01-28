@@ -7,7 +7,7 @@ title: Uniendo la Bella Provincia con la Tierra Gigante, Bienvenidos a la Ruta T
 description: 1710 km en una de la rutas más solitarias del mundo, la ruta Trans Quebec - Labrador.
 postHero: /assets/images/bienvenidos-ruta-trans-labrador-quebec/1.jpg
 tags:
-  - camping
+  - cultura
   - vanlife
 regions:
   - canada
@@ -111,7 +111,7 @@ Dentro de todas las consideraciones que se deben tener para esta ruta podemos re
 Felicitaciones has sobrevivido a la Ruta Trans Quebec - Labrador.  Sí todavía estas un poco confundido no te preocupes vamos a dividir este viaje en 4 entretenidos artículos explicando con experiencia, fotos, mapas y videos nuestras aventuras para que quizas tú te animes a ser un próximo sobreviviente.
 
 - <a href="/baie-comeau-fermont-ruta-trans-quebec-labrador-parte-1" title="Parte 1 - Inicio de la Ruta (Ruta Baie-Comeau a Fermont)">Parte 1 - Inicio de la Ruta (Ruta Baie-Comeau a Fermont)</a>
-- Parte 2 - Bienvenido a Labrador Ruta 500 (Ruta Fermont a Happy Valley - Goose Bay)
+- <a href="/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2" title="Parte 2 - Bienvenido a Labrador Ruta 500 (Ruta Fermont a Happy Valley - Goose Bay)">Parte 2 - Bienvenido a Labrador Ruta 500 (Ruta Fermont a Happy Valley - Goose Bay)</a>
 - Parte 3 - ¡Hola! mar de Labrador (Ruta Happy Valley - Goose Bay a Saint Lewis)
 - Parte 4 - El final del viaje (Ruta Saint Lewis a Blanc-Sablon)
 

@@ -7,7 +7,6 @@ title: Baie-Comeau a Fermont - Ruta Trans Quebec - Labrador Parte 1
 description: Viajando por La Ruta 389, la primera parte de nuestra aventura por la Ruta Trans Quebec - Labrador.
 postHero: /assets/images/baie-comeau-fermont-ruta-trans-quebec-labrador-parte-1/1.jpg
 tags:
-  - camping
   - cultura
   - vanlife
 regions:
@@ -25,7 +24,7 @@ El día nos pronosticaba unos cielos despejados junto con un sol espectacular al
   Alrededor de 214 millones de años atrás, un asteroide de 8 kilómetros de diametró impactó la tierra donde hoy día esta ubicada la Reserva Ecológica más grande de Quebec en la isla René-Levasseur. Visible desde el espacio, el resultado de este “Ojo de Quebec” es un crater de alrededor de 100 kilómetros de ancho y uno de los más grandes cicatrices por el impacto del objeto exterior en el mundo. <a href="https://www.rmbmu.com/the-biosphere-reserve/territory/?lang=en" title="The Manicouagan-Uapishka World Biosphere Reserve">The Manicouagan-Uapishka World Biosphere Reserve (MUWBR)</a>
 </div>
 <div class="cc">
-  Texto original: Some 214 million years ago, a meteorite eight kilometers in diameter struck the Earth where today Quebec’s largest ecological reserve is located, on René-Levasseur Island. Visible from space, the resulting “Eye of Quebec” is a crater about a hundred kilometer wide and one of the largest astroblemes in the world. Traducido por Eduardo Donoso.
+  Texto original: Some 214 million years ago, a meteorite eight kilometers in diameter struck the Earth where today Quebec’s largest ecological reserve is located, on René-Levasseur Island. Visible from space, the resulting “Eye of Quebec” is a crater about a hundred kilometer wide and one of the largest astroblemes in the world. {Traducido por Eduardo Donoso}
 </div>
 
 Revisando nuestros apuntes sobre esta bella ruta, destaque en ellos, con color rojo, que incluso ha 100 km en esta ruta todavía puedes ver casas de verano en los innumerables lagos que existen en esta región. Pero desde esa marca ya no hemos visto más intervención del hombre hasta que nos topamos con la primera represa - la Manic-2 - una obra impresionante en el medio de la nada. Pero todas las guías hablaban de una represa más grande que incluso si ocuparan todo el concreto que utilizaron en esa obra se podría construir una vereda desde el polo norte al polo sur. Pensamos que deberíamos realizar una parada en ese lugar.

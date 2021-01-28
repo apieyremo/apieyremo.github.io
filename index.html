@@ -18,7 +18,7 @@ layout: default
     {% endif %}
   {% endfor %}
   {% assign posts=site.posts | sort:"date" | reverse %}
-    {% for post in posts limit: 3 %}
+    {% for post in posts limit: 2 %}
       {% if post.main %}
       {% else %}
         <div class="two-col">

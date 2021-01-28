@@ -1,18 +1,17 @@
 ---
-main: true
+main: false
 published: true
 author: Eduardo Donoso
 layout: post
-title: Bienvenidos a Labrador Ruta 500. Labrador City a Happy Valley - Goose Bay - Ruta Trans Quebec - Labrador Parte 2
+title: Bienvenidos a Ruta 500. Labrador City a Happy Valley-Goose Bay - Ruta Trans Quebec-Labrador Parte 2
 description: Bienvenidos a Labrador - Ruta 500. La segunda parte de nuestra aventura por la Ruta Trans Quebec - Labrador.
 postHero: /assets/images/labrador-city-happy-valley-ruta-trans-quebec-labrador-parte-2/1.jpg
 tags:
-  - camping
   - cultura
   - vanlife
 regions:
   - canada
-  - quebec
+  - labrador
 ---
 Ajustamos nuestros relojes en 1 hora más y comenzamos nuestro viaje por Labrador, o también llamada "La Tierra Gigante". Aprendimos sobre la leyenda de las auroras boreales, sus pueblos originarios, su relación con Newfoundland y por supuesto manejamos por paisajes increíbles a lo largo del río Churchill. Todo esto y más en nuestra primera experiencia en la provincia de Newfoundland y Labrador.
 
