@@ -3,7 +3,7 @@ main: true
 published: true
 author: Jess Young
 layout: post
-title: Buscando Huellas en el Five Ponds Wilderness - Canotaje y Camping en Parque Adirondacks (Introducción)
+title: Buscando Senderos en el Five Ponds Wilderness - Canotaje y Camping en Parque Adirondacks (Introducción)
 description: Una introducción a nuestra vuelta de 6 días del Five Ponds Wilderness, uno de los sectores mas remotos del parque Adirondacks.
 postHero: /assets/images/adirondacks-canotaje-camping-resumen/1.jpg
 tags:
