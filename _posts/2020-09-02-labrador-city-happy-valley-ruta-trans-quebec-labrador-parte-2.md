@@ -25,7 +25,7 @@ Labrador es hogar de los pueblos Innu, Naskapi e Inuit.
 - El Pueblo Inuit son unos de los pueblos más conocidos por su modo de vida y arte. Se ubican particularmente sobre el círculo ártico. Y desarrollaron una habilidad increíble para construir y navegar en kayaks o kajait.
 
 <div class="quote">
-  Inuit remaban desde el pueblo de Nain hasta Hopedale, 185 km, en un tiempo de 2 días considerando un viaje normal de verano. Esto nos demuestra que el pueblo Inuit era capaz de remar a una velocidad de 10km/hr y posiblemente más rápido con remadas cortas. <a href="https://www.skgabc.com/news/posts/kajait-and-ice-it-happened" title="SKGABC">SKGABC, Kajait and Ice: It Happened</a>
+  Inuit remaban desde el pueblo de Nain hasta Hopedale, 185 km, en un tiempo de 2 días considerando un viaje normal de verano. Esto nos demuestra que el pueblo Inuit era capaz de remar a una velocidad de 10km/hr y posiblemente más rápido con remadas cortas. <a href="https://www.skgabc.com/news/posts/kajait-and-ice-it-happened" title="SKGABC">Kajait and Ice story by Noah Nochasak</a>
 </div>
 <div class="cc">
   Texto original: Inuit paddled from Nain to Hopedale, 185 km, considered a normal two day trip in summer. This tells us Inuit sustainably paddled Kajait at 10 km/hr, and likely faster in shorter bursts. Traducido por Eduardo Donoso.
